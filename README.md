@@ -12,3 +12,6 @@ stationery sales performance.twbx: The full Tableau Packaged Workbook file, whic
 
 How to View the Dashboard
 To interact with the full dashboard, download and open the stationery sales performance.twbx file using Tableau Public (free) or Tableau Desktop.
+
+Stationery-Sales-Performance. PPT.pdf
+this file contains the PPT of the entire project 
